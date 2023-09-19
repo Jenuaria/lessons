@@ -1,0 +1,76 @@
+@import url("reset.css");
+
+[class*="__container"] {
+	color: darkorange;
+}
+.header__container {
+	color: saddlebrown;
+}
+div.box {
+	color: blue;
+}
+.info {
+	color: tomato;
+}
+p {
+	color: green;
+}
+.header__title.title {
+	color: aqua;
+}
+* {
+	color: red;
+}
+h3 {
+	color: indigo;
+}
+.nav-list .item {
+	color: fuchsia;
+}
+#bank-id {
+	color: lawngreen;
+}
+div.block-contact {
+	color: mediumvioletred;
+}
+div {
+	color: aqua;
+}
+a.img-link {
+	color: black;
+}
+a {
+	color: blueviolet;
+}
+li {
+	color: gold;
+}
+li.img-item {
+	color: maroon;
+}
+#bank-id {
+	color: lawngreen;
+}
+.info-box,
+a,
+.list-name {
+	color: aqua;
+}
+.info-item a {
+	color: hotpink;
+}
+.info-list .info-item1 {
+	color: darkorange;
+}
+.list-name * {
+	color: blue;
+}
+.lists-section > .list-name {
+	color: lawngreen;
+}
+.main-section ~ .lists-section {
+	color: green;
+}
+.list-name + .block-list {
+	color: red;
+}
