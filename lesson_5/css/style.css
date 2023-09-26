@@ -1,0 +1,122 @@
+@import url("reset.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500&family=Poppins:600,700&display=swap");
+@import url("fonts.css");
+
+.wrapper {
+	font-family: "Helvetica CY", sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 1.35;
+}
+.title-italic {
+	font-style: italic;
+	font-size: 20px;
+	line-height: 1.46;
+}
+.list-top,
+.list-one,
+.list-two,
+.title-another,
+.title-another2 {
+	font-family: "Nimbus Sans L", sans-serif;
+	line-height: 1.46;
+}
+.title-serif,
+.list-nav,
+.list-one,
+.list-two,
+.underline,
+.uppercase {
+	text-transform: uppercase;
+}
+.title-another {
+	font-size: 30px;
+}
+.link-color {
+	color: rgba(55, 57, 63, 0.6);
+}
+.right,
+.date-top,
+.main-date {
+	text-align: right;
+}
+.title-another,
+.center {
+	text-align: center;
+}
+.title-another2 {
+	white-space: nowrap;
+}
+.title-serif {
+	text-shadow:
+		3px -3px 5px rgba(0, 0, 0, 0.5),
+		4px -4px 5px rgba(58, 16, 209, 0.6);
+}
+
+.indent {
+	text-indent: 30px;
+}
+.title-serif {
+	font-family: "Helvetica CY", serif;
+	font-size: 60px;
+	line-height: 1.46;
+}
+.date-top {
+	color: #6b77e5;
+}
+.description,
+.date-top,
+.article-aurthor,
+.main-date,
+.list-nav,
+.text1,
+.link-info,
+.text-botton {
+	font-size: 13px;
+	line-height: 1.56;
+}
+.text1 {
+	text-transform: capitalize;
+}
+.another-block {
+	font-family: "Inter", sans-serif;
+	color: #7d7d7d;
+	line-height: 1.46;
+}
+.title,
+.sub-title,
+.title-bold {
+	font-family: Poppins, sans-serif;
+	line-height: 1.27;
+}
+.sub-title {
+	color: #6b77e5;
+	font-size: 20px;
+	font-weight: 600;
+}
+.title1 {
+	font-size: 30px;
+	font-weight: 600;
+}
+.title-bold {
+	font-size: 40px;
+	font-weight: 700;
+}
+.title1,
+.title-bold {
+	color: #37393f;
+}
+.list {
+	font-weight: 500;
+}
+.link-site,
+.link-info,
+.underline {
+	text-decoration: underline;
+}
+.underline {
+	letter-spacing: 2px;
+}
+.spacing {
+	word-spacing: 3px;
+}

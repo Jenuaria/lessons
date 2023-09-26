@@ -1,0 +1,33 @@
+@font-face {
+	font-family: "Helvetica CY";
+	src:
+		url("../fonts/helveticacy.woff2") format("woff2"),
+		url("../fonts/helveticacy.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+
+	font-family: "Helvetica CY";
+	src:
+		url("../fonts/helveticacy_bold.woff2") format("woff2"),
+		url("../fonts/helveticacy_bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+
+	font-family: "Helvetica CY";
+	src:
+		url("../fonts/helveticacy_italic.woff2") format("woff2"),
+		url("../fonts/helveticacy_italic.woff") format("woff");
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+
+	font-family:"Nimbus Sans L";
+	src:
+		url("../fonts/nimbussanl_boldcond.woff2") format("woff2"),
+		url("../fonts/nimbussanl_boldcond.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
