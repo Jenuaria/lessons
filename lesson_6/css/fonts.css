@@ -1,0 +1,30 @@
+@font-face {
+	font-family: "Tahoma";
+	src:
+		url("../fonts/tahoma.woff2") format("woff2"),
+		url("../fonts/tahoma.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Tahoma";
+	src:
+		url("../fonts/tahoma_bold.woff2") format("woff2"),
+		url("../fonts/tahoma_bold.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Nimbus Sans L";
+	src:
+		url("../fonts/nimbussanl_boldcond.woff2") format("woff2"),
+		url("../fonts/nimbussanl_boldcond.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@import url("https://fonts.googleapis.com/css?family=Inter:regular&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=DM+Serif+Text:regular&display=swap");
