@@ -118,6 +118,7 @@
 }
 .image-first {
 	max-width: 614px;
+	max-height: 640px;
 	background: #000 url(../img/euphoria/tropics.jpg) center / cover no-repeat;
 	padding: 183px 74px 175px;
 }
