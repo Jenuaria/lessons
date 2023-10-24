@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:regular,500,600&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Poppins:600,700&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Cormorant+Infant:700&display=swap");
+
+@font-face {
+	font-family: "Causten";
+	src:
+		url("../fonts/causten-regular-webfont.woff2") format("woff2"),
+		url("../fonts/causten-regular-webfont.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Causten";
+	src:
+		url("../fonts/сausten-light-webfont.woff2") format("woff2"),
+		url("../fonts/сausten-light-webfont.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Core Sans C";
+	src:
+		url("../fonts/coresansc-65bold-webfont.woff2") format("woff2"),
+		url("../fonts/coresansc-65bold-webfont.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Core Sans C";
+	src:
+		url("../fonts/сoresansс-75Extrabold-webfont.woff2") format("woff2"),
+		url("../fonts/сoresansс-75Extrabold-webfont.woff") format("woff");
+	font-weight: 800;
+	font-style: normal;
+	font-display: swap;
+}
