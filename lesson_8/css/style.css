@@ -1,8 +1,48 @@
 @import url("fonts.css");
 @import url("reset.css");
 
+.header {
+	padding: 135px 15px;
+	background: #6b77e5 url("../img/hadoop.png") 20px 5px / 65px 65px fixed no-repeat ;
+}
+.list {
+	text-align: center;
+}
+.list li {
+	display: inline-block;
+	margin-right: 60px;
+	color: #e3f30f;
+	font-size: 40px;
+}
+.list li:hover {
+	font-size: 45px;
+	text-decoration: underline;
+}
+.list li:active {
+	color: orange;
+}
+.footer {
+	background: #6b77e5;
+	padding: 15px 50px;
+}
+.info-footer p {
+	display: inline-block;
+	color: #e3f30f;
+	font-size: 50px;
+}
+.link-elephant {
+	margin-right: 300px;
+}
+.link-elephant:hover{
+	width: 60px;
+}
+/*------------------------------------------------------------------------------------*/
 .wrapper {
-	background-image: url("../img/bg_repeat.jpg");
+	/* background-image: url("../img/bg_repeat.jpg"); */
+	background: url("../img/bg.jpg") 0 0 / cover no-repeat fixed;
+}
+.euphoria {
+	margin-bottom: 200px;
 }
 .euphoria-1 {
 	font-family: "Causten", sans-serif;
@@ -11,7 +51,7 @@
 	font-size: 20px;
 	color: #807d7e;
 	padding: 50px 15px;
-	margin-bottom: 50px;
+	margin-bottom: 150px;
 	background-color: beige;
 }
 .title-euphoria {
@@ -63,6 +103,7 @@
 	margin: 0 auto;
 	padding: 50px 15px;
 	background-color: beige;
+	margin-bottom: 200px;
 }
 .block-euphoria-2 {
 	font-family: "Causten", sans-serif;
@@ -93,7 +134,7 @@
 	font-weight: 800;
 	color: #fff;
 	font-size: 34px;
-	line-height: 1, 5;
+	line-height: 1.5;
 	letter-spacing: 0.2px;
 	text-transform: uppercase;
 	margin-bottom: 30px;
@@ -121,13 +162,16 @@
 	line-height: 1.2;
 }
 /*--------------------------------------------------------------------------------------------*/
+.whitecollar {
+	margin-bottom: 200px;
+}
 .maket-1 {
 	font-family: "Inter", sans-serif;
 	max-width: 1274px;
 	margin: 0 auto;
 	color: #7d7d7d;
 	padding: 50px 15px;
-	margin-bottom: 50px;
+	margin-bottom: 150px;
 	font-size: 0;
 }
 .image-content {
@@ -165,10 +209,9 @@
 	text-transform: capitalize;
 	background: url("../img/whitecollar/icons/line.png") bottom / 109px 2px no-repeat;
 }
-
 .content {
 	vertical-align: top;
-display: inline-block;
+   display: inline-block;
 	max-width: 735px;
 	padding: 145px 50px 145px 60px;
 	background: #ffffff;
@@ -281,16 +324,13 @@ display: inline-block;
 	line-height: 1.2;
 	text-transform: capitalize;
 }
-.maket-1 {
-	margin-bottom: 50px;
-}
 /*-----------------------------------------------------------------------------------------------------------------------------*/
 .maket-2 {
 	background: #ffffff;
 	max-width: 1250px;
 	margin: 0 auto;
 	padding: 50px 15px;
-	margin-bottom: 50px;
+	margin-bottom: 200px;
 }
 .project-list {
 	font-family: "Inter", sans-serif;
@@ -399,7 +439,6 @@ display: inline-block;
 	margin: 0 auto;
 	font-weight: 700;
 	padding: 50px 15px;
-	margin-bottom: 40px;
 }
 .block-text {
 	margin-bottom: 30px;
